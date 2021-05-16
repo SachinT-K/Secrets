@@ -1,0 +1,1 @@
+This is the new chapter 1 created to test version control with Git using CLI/terminal/Git Bash.
